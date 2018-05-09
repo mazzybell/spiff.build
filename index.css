@@ -5,6 +5,7 @@ html {
   /* cursor: url('pinkdot.png'), crosshair; */
   /*background-color: #ffff80;*/
   background-color: white;
+  max-height: 100vh;
 }
 
 
@@ -30,7 +31,15 @@ body {
 }
 
 .grid {
-  width: 100vw; 
+  width: 70vw;
+  margin: 10px; 
+}
+
+.rack {
+  z-index: 100;
+  position: absolute;
+  width: 40px;
+
 }
 
 /*
