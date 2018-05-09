@@ -1,0 +1,158 @@
+html {
+  max-width: 100vw;
+  padding: 0;
+  margin: 0;
+  /* cursor: url('pinkdot.png'), crosshair; */
+  /*background-color: #ffff80;*/
+  background-color: white;
+}
+
+
+body {
+	padding: 50px;
+  max-width: 100vw;
+}
+
+
+@font-face {
+    font-family: 'vulture';
+    src: url('vulture.woff2') format('woff2'),
+         url('vulture.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.logo {
+	max-width: 300px;
+	float:right;
+	position: relative;
+}
+
+
+.one {
+width: 50vh;
+position: relative;
+display: grid;
+}
+
+.chair {
+  width: 100px;
+  float: right;
+  padding-right: 15%;
+  position: relative;
+  top: -100px;
+  left: -100px;
+}
+
+.table {
+  width: 120px;
+  float: right;
+  padding-right: 15%;
+  position: relative;
+  margin-left: 30vw;
+  top: -70px;
+  left: -100px;
+}
+
+.shelf {
+  width: 140px;
+  float: right;
+  padding-right: 15%;
+  position: relative;
+  margin-left: 30vw;
+  top: -70px;
+  left: -200px;
+}
+
+.rack {
+  width: 50px;
+  float: right;
+  padding-right: 15%;
+  position: relative;
+  margin-left: 30vw;
+  top: -70px;
+  left: -200px;
+}
+
+.first {
+  padding-top: 20vh;
+  padding-left: 20vw;
+
+}
+
+.second {
+  top: -100px;
+  padding-top: 10vw;
+  padding-left: 20vw;
+}
+
+/* .third {
+  padding-top: 10vw;
+  padding-left: 20vw;
+}
+
+.fourth {
+  padding-top: 10vw;
+  padding-left: 20vw;
+} */
+
+---------
+
+/* .sit {
+  color: #fb381e;
+  background-color: #ffe02c;
+  font-family:'vulture';
+  font-size: 100px;
+}
+
+.two {
+color: #ffc2d8;
+font-family: sans-serif;
+font-size: 50px;
+}
+
+.rest {
+  color: #ffc2d8;
+  background-color: #00ad3a;
+  font-family:'vulture';
+  font-size: 100px;
+}
+
+.three {
+color: #ffe02c;
+font-family: sans-serif;
+font-size: 50px;
+}
+
+.store {
+  color: #ffe02c;
+  background-color: #0000ff;
+  font-family:'vulture';
+  font-size: 100px;
+}
+
+.four {
+color: #66b6ff;
+font-family: sans-serif;
+font-size: 50px;
+}
+
+.suspend {
+  color: #66b6ff;
+  background-color: #ffc2d8;
+  font-family:'vulture';
+  font-size: 100px;
+}
+
+.chair {
+  width: 100px;
+  float: right;
+  padding-right: 15%;
+}
+
+#wrap {
+  width: 100vw;
+  display: block;
+  position: relative;
+} */
