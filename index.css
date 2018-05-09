@@ -29,7 +29,11 @@ body {
 	position: relative;
 }
 
+.grid {
+  width: 100vw; 
+}
 
+/*
 .one {
 width: 50vh;
 position: relative;
@@ -85,7 +89,7 @@ display: grid;
   top: -100px;
   padding-top: 10vw;
   padding-left: 20vw;
-}
+} */
 
 /* .third {
   padding-top: 10vw;
