@@ -39,7 +39,8 @@ body {
   z-index: 100;
   position: absolute;
   width: 40px;
-  left: 500px; 
+  left: 600px;
+  bottom: 100px;
 
 }
 
