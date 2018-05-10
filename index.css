@@ -98,8 +98,9 @@ a:hover {
 	font-family: sans-serif;
   letter-spacing: -0.3px;
 	cursor: move;
-	box-shadow:3px 3px 5px blue;
+	box-shadow:3px 3px 5px pink;
 	background-color: #eee;
+  text-decoration: underline dotted #00ad3a;
 }
 
 #logo {
