@@ -6,12 +6,18 @@ html {
   /*background-color: #ffff80;*/
   background-color: white;
   max-height: 100vh;
+  cursor: url('screwdriver.png'), crosshair;
+}
+
+a {
+  cursor: url('screwdriver.png'), crosshair;
 }
 
 
 body {
 	padding: 50px;
   max-width: 100vw;
+  cursor: url('screwdriver.png'), crosshair;
 }
 
 
@@ -44,8 +50,8 @@ body {
 
 }
 
-.lineone {
-  display: none;
+.lineone:hover .wrap:hover {
+  display: block;
   z-index: 100;
   position: absolute;
   width: 200px;
@@ -53,7 +59,11 @@ body {
   bottom: 410px;
 }
 
-.lineone:hover {
-  display: block;
+.lineone {
+  display: none;
 
+}
+
+a:hover {
+  background: yellow;
 }
