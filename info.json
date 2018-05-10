@@ -2,7 +2,7 @@
 	"title": "SPIFF",
 	"logo" : "logo.png",
 	"menu" : {
-		"SPIFF" : "spiff.build",
+		"SPIFF" : "background.html",
 		"ABOUT" : "https://docs.google.com/document/d/18-3KnQVRnLlmrVDavoIYsGnU3l71i4N6Jvbd4y5hI7I/edit?usp=sharing",
 		"CUSTOMIZE" : "https://en.wikipedia.org/wiki/Archive",
 		"CONTACT" : "http://www.mazzybell.info/facebook"
