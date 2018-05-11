@@ -166,11 +166,12 @@ a:hover {
 }
 
 p {
-  font-size: 31px;
-  max-width: 90%;
+  font-size: 25px;
+  max-width: 70%;
   color: blue;
   font-family: sans-serif;
   padding: 100px;
+  margin-left: 50px; 
 }
 
 .emph {
