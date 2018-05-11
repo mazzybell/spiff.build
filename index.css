@@ -33,6 +33,11 @@ width: 100%;
 
 }
 
+.wrap {
+  padding-top: 13%;
+  padding-left: 6%; 
+}
+
 .logo {
 	max-width: 200px;
 	float:right;
