@@ -34,8 +34,8 @@ width: 100%;
 }
 
 .wrap {
-  padding-top: 8%;
-  padding-left: 6%;
+  padding-top: 2%;
+  padding-left: 8%;
 }
 
 .logo {
@@ -163,4 +163,23 @@ a:hover {
 }
 #navigation .current_page_item a {
 	color: red;
+}
+
+p {
+  font-size: 31px;
+  max-width: 90%;
+  color: blue;
+  font-family: sans-serif;
+  padding: 100px;
+}
+
+.emph {
+  background-color: #ffe02c;
+}
+
+.gif {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
 }
